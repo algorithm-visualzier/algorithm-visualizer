@@ -11,7 +11,7 @@ A Rust application to edit graphs and run selected algorithms on them.
 
 Inspiration: [this editor](https://csacademy.com/app/graph_editor/)
 
-To create and edit graphs simply pick appropriate option from GUI. Run algorithms by selecting a starting node and desired algorithm. Move the graph around by WSAD, rotate it with QE, zoom with mouse wheel. Use forces sliders to adjust gravity.
+To create and edit graphs simply pick appropriate option from GUI. Run algorithms by selecting a starting node and desired algorithm. Move the graph around with WSAD, rotate it with QE, zoom with mouse wheel. Use forces sliders to adjust gravity.
 
 ## Libraries
 
