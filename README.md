@@ -13,6 +13,8 @@ Inspiration: [this editor](https://csacademy.com/app/graph_editor/)
 
 To create and edit graphs simply pick appropriate option from GUI. Run algorithms by selecting a starting node and desired algorithm. Move the graph around with WSAD, rotate it with QE, zoom with mouse wheel. Use forces sliders to adjust gravity.
 
+It is also possible to write in the node: to do so right click on the node and start writing while keeping your cursor inside of the node. There is 10 character limit for readability.
+
 ## Libraries
 
 Petgraph for graphs structures, egui_tetra for graphics. egui_tetra is a wrapper for
